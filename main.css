@@ -35,3 +35,11 @@ h1 {
 .value {
     margin-top: 0;
 }
+
+.music {
+    align-items: center;
+}
+
+.audio {
+    align-items: center;
+}
